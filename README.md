@@ -1,9 +1,9 @@
 ## Muh Isfhani Ghiath—@isfaaghyth
 
-Assalamualaikum! 👋 Hai, I'm a Sr. Software Engineer at Tokopedia, working on User, Communication, and Media focusing on the user experience. Before that, I was in the Content Team that has the responsibility to make Tokopedia Play and Feed happen.
+Assalamualaikum! 👋 Hai, I'm a Sr. Software Engineer - Android at Tokopedia, working on User, Communication, and Media focusing on the user experience. Before that, I was in the Content tribe team that has the responsibilities to make Tokopedia Play and Tokopedia Feed happen.
 
-I also have experience in several communities, such as Co-Organizer at [GDG Jakarta](https://gdgindonesia.org/), Ex-Lead at [Google DSC](https://g.co/dev/dsc), Co-Organizer at [AEJ Jakarta](https://www.instagram.com/aej.id), and Community Manager at [aBraincode](https://abraincode.github.io/).
+Apart from that, I also Co-Organizer at [GDG Jakarta](https://gdgindonesia.org/), Executive Board at [AEJ Jakarta](https://www.instagram.com/aej.id), Initiator at [aBraincode](https://abraincode.github.io/), and I was former Community Lead at [Google DSC Indonesia](https://g.co/dev/dsc).
 
 ### 💬 Get in touch with me
 - Site: [https://isfa.xyz/](https://www.isfa.xyz/)
-- Instagram: [@isfaaghyth](https://instagram.com/isfaaghyth)
+- Linkedin: [@isfaaghyth](https://linkedin.com/in/isfaaghyth)
