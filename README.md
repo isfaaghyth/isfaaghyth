@@ -1,9 +1,15 @@
 ## Muh Isfhani Ghiath—@isfaaghyth
 
-Assalamualaikum! 👋 Hai, I'm Isfa, a Software Engineer since 2009. Currently working as a Sr. Software Engineer - Android at Tokopedia. Working on User, Communication, and Media platform focusing on the user experience. Before that, I was in the Tokopedia Content team that has the responsibility to make Play and Feed features happen.
+Assalamualaikum, Isfa here! 👋
 
-Apart from that, I also Co-Organizer at [GDG Jakarta](https://gdgindonesia.org/), Contributors at [AEJ Jakarta](https://www.instagram.com/aej.id), Initiator at [aBraincode](https://abraincode.github.io/), and I was former Community Lead at [Google DSC](https://g.co/dev/dsc).
+Full-stack software engineer with 12 years of experience in different languages and platforms.
 
-### 💬 Get in touch with me
-- Site: [https://isfa.xyz/](https://www.isfa.xyz/)
-- Linkedin: [@isfaaghyth](https://linkedin.com/in/isfaaghyth)
+Currently, work as a Senior Software Engineer Android at Tokopedia, part of Media Platform Team and ownership of several modules, such as Image Loader, Media Uploader, Media Picker/Editor, and In-House Live Streaming Broadcaster.
+
+Apart from that, Isfa also Co-Organizer @[GDG Jakarta](https://gdgindonesia.org/), Contributors @[AEJ Jakarta](https://www.instagram.com/aej.id), Initiator @[aBraincode](https://abraincode.github.io/), and he was former Community Lead @[Google DSC](https://g.co/dev/dsc). Lastly, in recent years, Isfa also a Lecturer for Backend Programming subject @[STTNF](https://nurulfikri.ac.id/)
+
+[![Isfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isfaaghyth)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💬 Get in touch!
+- Site: [https://with.isfa.xyz/](https://with.isfa.xyz/)
+- Linkedin: [in/isfaaghyth](https://linkedin.com/in/isfaaghyth)
