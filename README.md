@@ -8,8 +8,6 @@ Currently, work as a Senior Software Engineer Android at Tokopedia, part of Medi
 
 Apart from that, Isfa also Co-Organizer @[GDG Jakarta](https://gdgindonesia.org/), Contributors @[AEJ Jakarta](https://www.instagram.com/aej.id), Initiator @[aBraincode](https://abraincode.github.io/), and he was former Community Lead @[Google DSC](https://g.co/dev/dsc). Lastly, in recent years, Isfa is a Lecturer for Backend Programming subject @[STTNF](https://nurulfikri.ac.id/)
 
-[![Isfa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isfaaghyth&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 💬 Get in touch!
 - Site: [https://with.isfa.xyz/](https://with.isfa.xyz/)
 - Linkedin: [in/isfaaghyth](https://linkedin.com/in/isfaaghyth)
